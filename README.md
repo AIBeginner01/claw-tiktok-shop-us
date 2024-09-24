@@ -10,8 +10,8 @@ Claw all Product of Shop or by Keywords
 
 TTS FBUFF is a comprehensive toolkit for TikTok Shop operations, offering several key features:
 
-- Product scraping from TikTok
-- Shop scraping from TikTok
+- Product scraping from TikTok (Keyworods, trend,...)
+- Shop scraping from TikTok (All product of shop)
 - Bulk product uploading with customizable templates
 - Preventing detection from anomalies when using other tools
 - Tools for design support, trademark checking for listings, and InstantProxies verification
@@ -28,8 +28,8 @@ For more details, please contact us on Telegram: @trangthancb
 
 TTS FBUFF cung cấp một bộ công cụ toàn diện cho các hoạt động trên TikTok Shop, với các tính năng chính bao gồm:
 
-- Leech sản phẩm từ TikTok
-- Leech shop từ TikTok
+- Leech sản phẩm từ TikTok (Từ khóa, trend,...)
+- Leech shop từ TikTok (Tất cả product của shop)
 - Đăng hàng loạt sản phẩm với template tùy chỉnh
 - Tránh bị quét bởi các bất thường khi sử dụng các công cụ khác
 - Công cụ hỗ trợ thiết kế, kiểm tra trademark bài đăng bán hàng, kiểm tra InstantProxies
